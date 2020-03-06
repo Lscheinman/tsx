@@ -4,11 +4,9 @@
 /node_modules
 /.pnp
 .pnp.js
-
 # python
 venv
 __pycache__
-
 # testing
 /coverage
 
